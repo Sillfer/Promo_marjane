@@ -3,22 +3,22 @@
              xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
              version="2.0">
     <persistence-unit name="marjane_promo" transaction-type="RESOURCE_LOCAL">
-        <class>com.simplon.marjane.entity.AdminEntity</class>
-        <class>com.simplon.marjane.entity.BranchEntity</class>
-        <class>com.simplon.marjane.entity.CategoryEntity</class>
-        <class>com.simplon.marjane.entity.CityEntity</class>
-        <class>com.simplon.marjane.entity.PromotionEntity</class>
-        <class>com.simplon.marjane.entity.RespRayonEntity</class>
-        <class>com.simplon.marjane.entity.SubCategoryEntity</class>
-        <class>com.simplon.marjane.entity.SuperAdminEntity</class>
-        <class>com.simplon.marjane.entity.AdminEntity</class>
-        <class>com.simplon.marjane.entity.BranchEntity</class>
-        <class>com.simplon.marjane.entity.CategoryEntity</class>
-        <class>com.simplon.marjane.entity.CityEntity</class>
-        <class>com.simplon.marjane.entity.PromotionEntity</class>
-        <class>com.simplon.marjane.entity.RespRayonEntity</class>
-        <class>com.simplon.marjane.entity.SubCategoryEntity</class>
-        <class>com.simplon.marjane.entity.SuperAdminEntity</class>
+        <class>com.marjane.entity.AdminEntity</class>
+        <class>com.marjane.entity.BranchEntity</class>
+        <class>com.marjane.entity.CategoryEntity</class>
+        <class>com.marjane.entity.CityEntity</class>
+        <class>com.marjane.entity.PromotionEntity</class>
+        <class>com.marjane.entity.RespRayonEntity</class>
+        <class>com.marjane.entity.SubCategoryEntity</class>
+        <class>com.marjane.entity.SuperAdminEntity</class>
+        <class>com.marjane.entity.AdminEntity</class>
+        <class>com.marjane.entity.BranchEntity</class>
+        <class>com.marjane.entity.CategoryEntity</class>
+        <class>com.marjane.entity.CityEntity</class>
+        <class>com.marjane.entity.PromotionEntity</class>
+        <class>com.marjane.entity.RespRayonEntity</class>
+        <class>com.marjane.entity.SubCategoryEntity</class>
+        <class>com.marjane.entity.SuperAdminEntity</class>
         <properties>
 
             <property name="hibernate.connection.url" value="jdbc:postgresql://localhost:5432/promo_marjane"/>

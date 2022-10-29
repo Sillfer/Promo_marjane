@@ -196,7 +196,7 @@
       <workItem from="1667041033118" duration="1258000" />
       <workItem from="1667042612419" duration="183000" />
       <workItem from="1667043518042" duration="782000" />
-      <workItem from="1667045607952" duration="3646000" />
+      <workItem from="1667045607952" duration="4361000" />
     </task>
     <task id="LOCAL-00001" summary="adding utils and menu functions">
       <created>1666695225951</created>
@@ -309,7 +309,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/simplon/marjane/Dao/SuperAdminDaoTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/marjane/Dao/SuperAdminDaoTest.java</url>
           <line>12</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
