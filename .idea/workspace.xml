@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6bebe22-1318-4345-b602-2fb75d1dd3a5" name="Changes" comment="HOT 004:: adding DB file" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.jpb.JpaEntity" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GcesQawEHXlpvRlnx7uBNmfuNJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;JPA.DatabaseSchemaImportDialog&quot;: &quot;9b0601f7-543e-4a55-9792-09eb979f90e8&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gliou/Downloads/Marjane-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.simplon.marjane.Dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.simplon.marjane.Dao" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.simplon.marjane.Jpa" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PromotionDaoTest.createPromotionTest">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.simplon.marjane.view.main" />
+      <module name="App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simplon.marjane.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PromotionDaoTest.createPromotionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simplon.marjane.Dao.PromotionsTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.simplon.marjane.Dao.PromotionsTest" />
+      <option name="MAIN_CLASS_NAME" value="com.simplon.marjane.Dao.PromotionsTest.PromotionDaoTest" />
+      <option name="METHOD_NAME" value="createPromotionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PromotionDaoTest.getPromotionByIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simplon.marjane.Dao.PromotionsTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.simplon.marjane.Dao.PromotionsTest" />
+      <option name="MAIN_CLASS_NAME" value="com.simplon.marjane.Dao.PromotionsTest.PromotionDaoTest" />
+      <option name="METHOD_NAME" value="getPromotionByIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PromotionDaoTest.updatePromotionStatusBasedOnExpirationDateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simplon.marjane.Dao.PromotionsTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.simplon.marjane.Dao.PromotionsTest" />
+      <option name="MAIN_CLASS_NAME" value="com.simplon.marjane.Dao.PromotionsTest.PromotionDaoTest" />
+      <option name="METHOD_NAME" value="updatePromotionStatusBasedOnExpirationDateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PromotionDaoTest.updatePromotionStatusBasedOnTimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.simplon.marjane.Dao.PromotionsTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.simplon.marjane.Dao.PromotionsTest" />
+      <option name="MAIN_CLASS_NAME" value="com.simplon.marjane.Dao.PromotionsTest.PromotionDaoTest" />
+      <option name="METHOD_NAME" value="updatePromotionStatusBasedOnTimeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PromotionDaoTest.createPromotionTest" />
+        <item itemvalue="JUnit.PromotionDaoTest.getPromotionByIdTest" />
+        <item itemvalue="JUnit.PromotionDaoTest.updatePromotionStatusBasedOnExpirationDateTest" />
+        <item itemvalue="JUnit.PromotionDaoTest.updatePromotionStatusBasedOnTimeTest" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6bebe22-1318-4345-b602-2fb75d1dd3a5" name="Changes" comment="" />
+      <created>1666692506009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666692506009</updated>
+      <workItem from="1666692507946" duration="2194000" />
+      <workItem from="1666694817564" duration="41768000" />
+      <workItem from="1666867848144" duration="25757000" />
+      <workItem from="1666968658585" duration="6253000" />
+      <workItem from="1667038654365" duration="1572000" />
+      <workItem from="1667040446012" duration="485000" />
+      <workItem from="1667041033118" duration="1258000" />
+      <workItem from="1667042612419" duration="183000" />
+      <workItem from="1667043518042" duration="782000" />
+      <workItem from="1667045607952" duration="3646000" />
+    </task>
+    <task id="LOCAL-00001" summary="adding utils and menu functions">
+      <created>1666695225951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666695225951</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HOT :: setup Dao AbstractHibernateDao class with CRUD methods and other validation methods">
+      <created>1666715477453</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666715477453</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HOT :: adding methods to AdminDao class">
+      <created>1666772825527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666772825527</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HOT :: adding methods to AdminDao class">
+      <created>1666787663295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666787663295</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HOT 004:: adding Security class to hash password and check login validation methods to users">
+      <created>1666793672462</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666793672462</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HOT 004:: adding adding table references to the Entity classes">
+      <created>1666859010648</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666859010648</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HOT 004:: adding a lot of changes to describe">
+      <created>1666895662159</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666895662159</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HOT 004:: adding a unit test with dependency needed">
+      <created>1666896947621</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666896947621</updated>
+    </task>
+    <task id="LOCAL-00009" summary="HOT 004:: adding a unit test and promotions condition methods">
+      <created>1666950968061</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666950968061</updated>
+    </task>
+    <task id="LOCAL-00010" summary="HOT 004:: adding DB file">
+      <created>1666951129041</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666951129041</updated>
+    </task>
+    <task id="LOCAL-00011" summary="HOT 004:: adding DB file">
+      <created>1666951402524</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666951402524</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="adding utils and menu functions" />
+    <MESSAGE value="HOT :: setup Dao AbstractHibernateDao class with CRUD methods and other validation methods" />
+    <MESSAGE value="HOT :: adding methods to AdminDao class" />
+    <MESSAGE value="HOT 004:: adding Security class to hash password and check login validation methods to users" />
+    <MESSAGE value="HOT 004:: adding adding table references to the Entity classes" />
+    <MESSAGE value="HOT 004:: adding a lot of changes to describe" />
+    <MESSAGE value="HOT 004:: adding a unit test with dependency needed" />
+    <MESSAGE value="HOT 004:: adding a unit test and promotions condition methods" />
+    <MESSAGE value="HOT 004:: adding DB file" />
+    <option name="LAST_COMMIT_MESSAGE" value="HOT 004:: adding DB file" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/simplon/marjane/Dao/SuperAdminDaoTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

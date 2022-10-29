@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" reUseTableSchema="true">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="9b0601f7-543e-4a55-9792-09eb979f90e8" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/simplon/marjane/entity" />
+  </component>
+</project>
